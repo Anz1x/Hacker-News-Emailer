@@ -1,0 +1,8 @@
+{
+    "SERVER":"smtp.gmail.com",
+    "PORT":"587",
+    "FROM_EMAIL":"anand.anonymous92@gmail.com",
+    "TO_EMAIL":"anand.elango60@gmail.com",
+    "PASSWORD":"Ani210308"
+
+}
